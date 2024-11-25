@@ -1,53 +1,77 @@
-# 👋 Hello, I'm [Your Name]!
-
-🎯 **Aspiring Software Engineer | IT Enthusiast | Problem Solver**  
-Welcome to my GitHub! I'm passionate about creating impactful software and constantly learning new technologies to improve my craft. I believe in teamwork, innovation, and leveraging technology to solve real-world problems.
-
----
-
-## 🔧 Tech Stack
-### Languages & Frameworks
-- **Frontend**: HTML, CSS, JavaScript, React.js  
-- **Backend**: Python (Flask, Django), Node.js  
-- **Databases**: MySQL, PostgreSQL, SQLite  
-- **DevOps**: Docker, Docker Compose  
-- **Others**: Git, REST APIs, Markdown
-
-### Tools & Platforms
-- **IDEs**: VSCode, PyCharm  
-- **Version Control**: Git, GitHub  
-- **CI/CD**: GitHub Actions  
-- **Cloud**: AWS (Basics), Docker Hub  
+<h1 align="center">👋 Hello, I'm Rio 🌟</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer+in+the+making;Passionate+about+technology+%26+innovation!;Lifelong+learner+%F0%9F%93%9A+%F0%9F%92%AA" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Projects
-Here are a few projects I’ve been working on recently:
-
-- **Travel Planner App**  
-  🗺️ A web-based travel planning tool that integrates search capabilities using JSONL data.  
-  **Tech Stack**: React (Frontend), Flask (Backend), PostgreSQL (Database), Docker (Deployment)  
-  [View Repository](https://github.com/yourusername/travel-planner-app)
-
-- **[Your Other Notable Project]**  
-  🌟 [Short description of the project]  
-  **Tech Stack**: [Technologies used]  
-  [View Repository](https://github.com/yourusername/your-project)
+## 🌟 About Me  
+🎯 Aspiring **Software Engineer** with a passion for **team collaboration** and **problem-solving**.  
+🌱 Currently exploring advanced **web development** and **system design**.  
+🎤 Hobbies: **Karaoke with friends** 🎶, **Motorbike touring** 🏍️  
 
 ---
 
-## ✨ About Me
-- 🎤 **Hobbies**: Karaoke with friends, motorbike touring to discover new places.  
-- 🎯 **Goals**: Pursuing a career in IT, focusing on creating robust and user-friendly systems.  
-- 🌏 **Philosophy**: Inspired by the vision of creating a prosperous information society.
+## 📊 Languages & Tools Usage  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-## 📫 Let's Connect!
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- **Portfolio**: [Your Portfolio Link](https://yourportfolio.com)
+## 🎨 Language Usage Chart  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=radical" alt="Most Commit Language" />
+</p>
 
 ---
 
-Thank you for stopping by! I'm always open to discussions, collaborations, or simply sharing knowledge. 🚀
+## 🚀 Tech Stack  
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+</p>
+
+---
+
+## 📂 Featured Projects  
+### 🗺️ **Travel Planner App**  
+A travel planning web application that helps users organize their trips effectively.  
+- **Frontend**: React.js  
+- **Backend**: Flask  
+- **Database**: PostgreSQL  
+- **Deployment**: Docker Compose  
+
+[![Repo](https://img.shields.io/badge/View%20Repository-%2312100E.svg?style=for-the-badge&logo=github)](https://github.com/yourusername/travel-planner-app)
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 💬 Let's Connect!  
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/-Portfolio-FF5722?logo=firefox&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ Thanks for visiting! Have a great day! ✨</p>
