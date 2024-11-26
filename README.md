@@ -1,6 +1,13 @@
-<h1 align="center">👋 Hello, I'm Rio 🌟</h1>
+<h1 align="center">👋 Hi there! I'm [Your Name] 🌟</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Software+Engineer+in+the+making;Passionate+about+technology+%26+innovation!;Lifelong+learner+%F0%9F%93%9A+%F0%9F%92%AA" alt="Typing SVG" />
+</p>
+
+---
+
+## 📊 My Language Usage  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -9,21 +16,6 @@
 🎯 Aspiring **Software Engineer** with a passion for **team collaboration** and **problem-solving**.  
 🌱 Currently exploring advanced **web development** and **system design**.  
 🎤 Hobbies: **Karaoke with friends** 🎶, **Motorbike touring** 🏍️  
-
----
-
-## 📊 Languages & Tools Usage  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🎨 Language Usage Chart  
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=radical" alt="Most Commit Language" />
-</p>
 
 ---
 
