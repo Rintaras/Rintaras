@@ -1,3 +1,5 @@
+<!-- おしゃれなGitHubプロフィール / Super Stylish GitHub Profile README -->
+
 <h1 align="center">Hi there 👋 こんにちは！I'm <span style="color:#F7A41D">Rintaras</span></h1>
 
 <p align="center">
@@ -18,7 +20,7 @@
 
 ---
 
-##  Pinned Projects / 注目プロジェクト
+## Pinned Projects / 注目プロジェクト
 
 <p align="left">
   <a href="https://github.com/Rintaras/LabLib"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rintaras&repo=LabLib&theme=tokyonight" /></a>
