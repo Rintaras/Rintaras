@@ -1,16 +1,7 @@
-<!-- おしゃれなGitHubプロフィール / Super Stylish GitHub Profile README -->
-
 <h1 align="center">Hi there 👋 こんにちは！I'm <span style="color:#F7A41D">Rintaras</span></h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Curious+Engineer+%F0%9F%92%A1;Design+%E2%9C%A8+Code;Always+Learning+%F0%9F%8C%8E;おしゃれな開発者%E2%9C%A8;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</p>
-
 ---
 
 ## About Me / 自己紹介
-
-> "Make it stylish, make it fun, make it work!"
 
 - Japan based developer
 - 好奇心旺盛なエンジニア / Curious engineer
