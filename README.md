@@ -1,19 +1,7 @@
-<!-- おしゃれなGitHubプロフィール / Super Stylish GitHub Profile README -->
-
-<p align="center">
-  <img src="https://github.com/Rintaras/IMG_3237.jpg" alt="banner" width="100%"/>
-</p>
-
 <h1 align="center">Hi there 👋 こんにちは！I'm <span style="color:#F7A41D">Rintaras</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Curious+Engineer+%F0%9F%92%A1;Design+%E2%9C%A8+Code;Always+Learning+%F0%9F%8C%8E;おしゃれな開発者%E2%9C%A8;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="180" />
 </p>
 
 ---
@@ -33,9 +21,10 @@
 ##  Pinned Projects / 注目プロジェクト
 
 <p align="left">
-  <a href="https://github.com/Rintaras/AppleCalendar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rintaras&repo=AppleCalendar&theme=tokyonight" /></a>
+  <a href="https://github.com/Rintaras/LabLib"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rintaras&repo=LabLib&theme=tokyonight" /></a>
+  <a href="https://github.com/Rintaras/indicator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rintaras&repo=indicator&theme=tokyonight" /></a>
+  <a href="https://github.com/Rintaras/AI-Answer-Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rintaras&repo=AI-Answer-Generator&theme=tokyonight" /></a>
   <a href="https://github.com/Rintaras/Webcam-Object-Recognition"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rintaras&repo=Webcam-Object-Recognition&theme=tokyonight" /></a>
-  <a href="https://github.com/IchinaZiru/TripMate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=IchinaZiru&repo=TripMate&theme=tokyonight" /></a>
 </p>
 
 ---
