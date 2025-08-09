@@ -1,17 +1,5 @@
-<h1 align="center">Hi there 👋 こんにちは！I'm <span style="color:#F7A41D">Rintaras</span></h1>
----
-
-## About Me / 自己紹介
-
-- Japan based developer
-- 好奇心旺盛なエンジニア / Curious engineer
-- Design × Code
-- 趣味: 原付旅・カラオケ
-- I'm currently learning: AI, Cloud, UI/UX
-
----
-
-## Pinned Projects / 注目プロジェクト
+<h1 align="center">Hi there 👋　I'm <span style="color:#F7A41D">Rintaras</span></h1>
+## Pinned Projects 
 
 <p align="left">
   <a href="https://github.com/Rintaras/LabLib"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rintaras&repo=LabLib&theme=tokyonight" /></a>
@@ -22,7 +10,7 @@
 
 ---
 
-## Skills / 技術スタック
+## Skills
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,figma,aws,php" height="40" />
@@ -30,7 +18,7 @@
 
 ---
 
-## GitHub Stats / 活動統計
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rintaras&show_icons=true&theme=tokyonight" height="165" />
