@@ -58,7 +58,7 @@ const rintaras = {
 <img src="https://skillicons.dev/icons?i=githubactions,vercel,netlify" height="50" />
 
 ### Databases & Storage
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase" height="50" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,supabase" height="50" />
 
 ### Development Tools
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vim" height="50" />
