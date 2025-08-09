@@ -17,11 +17,11 @@
 ```javascript
 const rintaras = {
     pronouns: "he/him",
-    location: "Japan 🇯🇵",
+    location: "Japan",
     currentFocus: "Software Development & AI/ML",
     learning: ["Programming", "WebAssembly", "Cloud Architecture"],
     interests: ["Open Source", "Web3", "IoT", "Computer Vision"],
-    motto: "Code with passion, learn with curiosity! 💖"
+    motto: "Code with passion, learn with curiosity!"
 };
 ```
 
@@ -29,39 +29,53 @@ const rintaras = {
 
 <div align="center">
 
-| 🔬 **Lab Management** | 📺 **Digital Signage** | 🌐 **Network Innovation** |
+| **Lab Management** | **Digital Signage** | **Network Innovation** |
 |:---:|:---:|:---:|
 | [**LabLib**](https://github.com/Rintaras/LabLib) | [**SignageService**](https://github.com/Rintaras/SignageService) | [**gRPC over HTTP3**](https://github.com/Rintaras/gRPC_over_HTTP3) |
 | Laboratory equipment management system | Modern digital signage solution | Next-gen network protocol implementation |
 
-| 👁️ **Computer Vision** | 🤖 **AI Learning Platform** |
+| **Computer Vision** | **AI Learning Platform** |
 |:---:|:---:|
 | [**Webcam Object Recognition**](https://github.com/Rintaras/Webcam-Object-Recognition) | [**Gakusyu AI**](https://github.com/Rintaras/gakusyu-AI) |
 | Real-time object detection system | Interactive AI learning platform |
 
 </div>
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <div align="center">
 
-### 💻 Frontend Development
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,html,css,figma" height="50" />
+### Frontend Development
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,html,css,tailwind,bootstrap" height="50" />
+<img src="https://skillicons.dev/icons?i=figma" height="50" />
 
-### ⚙️ Backend Development  
-<img src="https://skillicons.dev/icons?i=nodejs,python,php,go" height="50" />
+### Backend Development  
+<img src="https://skillicons.dev/icons?i=nodejs,python,php,go,java,c,cpp" height="50" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,laravel" height="50" />
 
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform" height="50" />
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform" height="50" />
+<img src="https://skillicons.dev/icons?i=githubactions,vercel,netlify" height="50" />
 
-### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,git,linux" height="50" />
+### Databases & Storage
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase" height="50" />
+
+### Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vim" height="50" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,bash,powershell" height="50" />
+
+### AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" height="50" />
+
+### Mobile Development
+<img src="https://skillicons.dev/icons?i=swift,react,flutter" height="50" />
+
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -74,32 +88,26 @@ const rintaras = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rintaras&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Rintaras&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 
-### 📈 Contribution Graph
+### Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rintaras&theme=tokyo-night&bg_color=0D1117&color=F7A41D&line=F7A41D&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 
-### 🌱 Dynamic GitHub Grass
+### Dynamic GitHub Grass
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rintaras&theme=tokyonight" alt="Profile Summary" />
 
 <img src="https://raw.githubusercontent.com/Rintaras/Rintaras/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
-
-<details>
-<summary>🐍 Watch the snake eat my contributions!</summary>
-<br/>
-<img src="https://github.com/Rintaras/Rintaras/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation dark mode" />
-</details>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
-### 💬 Feel free to reach out for collaborations or just a friendly chat!
+### Feel free to reach out for collaborations or just a friendly chat!
 
 <table>
   <tr>
@@ -113,10 +121,6 @@ const rintaras = {
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">Follow me!</td>
-    <td align="center">Connect professionally!</td>
   </tr>
 </table>
 
