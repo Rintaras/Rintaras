@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://github.com/Rintaras/LabLib"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rintaras&repo=LabLib&theme=tokyonight" /></a>
-  <a href="https://github.com/Rintaras/indicator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rintaras&repo=indicator&theme=tokyonight" /></a>
+  <a href="https://github.com/Rintaras/SignageService"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rintaras&repo=SignageService&theme=tokyonight" /></a>
   <a href="https://github.com/Rintaras/AI-Answer-Generator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rintaras&repo=AI-Answer-Generator&theme=tokyonight" /></a>
   <a href="https://github.com/Rintaras/Webcam-Object-Recognition"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Rintaras&repo=Webcam-Object-Recognition&theme=tokyonight" /></a>
 </p>
