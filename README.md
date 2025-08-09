@@ -120,15 +120,6 @@ const rintaras = {
   </tr>
 </table>
 
----
-
-### 🌟 Thanks for visiting! Don't forget to ⭐ some repositories if you found them interesting!
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rintaras&style=for-the-badge&color=F7A41D" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Rintaras?style=for-the-badge&color=F7A41D" alt="Followers" />
-</div>
-
 </div>
 
 ---
