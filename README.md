@@ -4,15 +4,7 @@
 
 ### Software Developer | Tech Enthusiast | Lifelong Learner
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Software+Developer;AI+%26+ML+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
-</div>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=2000&color=6ADC42&center=true&vCenter=true&width=500&lines=🚀+Ready+to+code+%26+create!;💡+Passionate+about+innovation;🌱+Growing+every+day" alt="Status" />
-
----
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Software+Developer;AI+%26+ML+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 
 ## About Me
 
@@ -32,8 +24,6 @@ const rintaras = {
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&pause=3000&color=F7A41D&center=true&vCenter=true&width=400&lines=⚡+Currently+learning+WebAssembly;🌐+Exploring+Cloud+Architecture;🔮+Interested+in+Web3+%26+IoT" alt="Learning Status" />
 
 </div>
-
-
 
 ## Tech Stack & Skills
 
@@ -94,8 +84,6 @@ const rintaras = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rintaras&theme=tokyo-night&bg_color=0D1117&color=F7A41D&line=F7A41D&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 
 ### Dynamic GitHub Grass
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rintaras&theme=tokyonight" alt="Profile Summary" />
-
 <img src="https://raw.githubusercontent.com/Rintaras/Rintaras/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
 
 </div>
