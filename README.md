@@ -33,27 +33,27 @@ const rintaras = {
 <tr>
 <td width="50%">
 
-<div style="background: #0D1117; border: 2px solid #30363D; border-radius: 10px; padding: 18px; margin: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<div style="background: #0D1117; border: 2px solid #30363D; border-radius: 12px; padding: 24px; margin: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
 
-<div style="display: flex; align-items: center; margin-bottom: 12px;">
-<div style="background: linear-gradient(45deg, #667eea, #764ba2); width: 36px; height: 36px; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 14px; font-family: 'Lucida Console', monospace; font-size: 18px; color: white; font-weight: bold;">
+<div style="display: flex; align-items: center; margin-bottom: 16px;">
+<div style="background: linear-gradient(45deg, #667eea, #764ba2); width: 40px; height: 40px; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 16px; font-family: 'Lucida Console', monospace; font-size: 20px; color: white; font-weight: bold;">
 ⚗
 </div>
 <div>
-<h3 style="margin: 0; color: #F7A41D; font-size: 16px;">LabLib</h3>
-<p style="margin: 0; color: #8B949E; font-size: 13px;">Lab Management System</p>
+<h3 style="margin: 0; color: #F7A41D; font-size: 18px;">LabLib</h3>
+<p style="margin: 0; color: #8B949E; font-size: 14px;">Lab Management System</p>
 </div>
 </div>
 
-<p style="color: #C9D1D9; margin: 12px 0; line-height: 1.4; font-size: 14px;">Modern web-based solution for managing laboratory equipment and resources with an intuitive interface.</p>
+<p style="color: #C9D1D9; margin: 16px 0; line-height: 1.5;">Modern web-based solution for managing laboratory equipment and resources with an intuitive interface.</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0;">
-<span style="background: #21262D; color: #58A6FF; padding: 3px 6px; border-radius: 5px; font-size: 11px; font-family: 'Monaco', monospace;">Python</span>
-<span style="background: #21262D; color: #58A6FF; padding: 3px 6px; border-radius: 5px; font-size: 11px; font-family: 'Monaco', monospace;">FastAPI</span>
-<span style="background: #21262D; color: #58A6FF; padding: 3px 6px; border-radius: 5px; font-size: 11px; font-family: 'Monaco', monospace;">SQLite</span>
+<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0;">
+<span style="background: #21262D; color: #58A6FF; padding: 4px 8px; border-radius: 6px; font-size: 12px; font-family: 'Monaco', monospace;">Python</span>
+<span style="background: #21262D; color: #58A6FF; padding: 4px 8px; border-radius: 6px; font-size: 12px; font-family: 'Monaco', monospace;">FastAPI</span>
+<span style="background: #21262D; color: #58A6FF; padding: 4px 8px; border-radius: 6px; font-size: 12px; font-family: 'Monaco', monospace;">SQLite</span>
 </div>
 
-<a href="https://github.com/Rintaras/LabLib" style="display: inline-block; background: linear-gradient(45deg, #667eea, #764ba2); color: white; padding: 6px 12px; border-radius: 5px; text-decoration: none; font-weight: 500; transition: all 0.3s ease; font-size: 13px;">View Project →</a>
+<a href="https://github.com/Rintaras/LabLib" style="display: inline-block; background: linear-gradient(45deg, #667eea, #764ba2); color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500; transition: all 0.3s ease;">View Project →</a>
 
 </div>
 
