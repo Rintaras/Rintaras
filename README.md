@@ -6,9 +6,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Software+Developer;AI+%26+ML+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 
-## About Me
+</div>
 
-<div align="center">
+---
+
+## About Me
 
 ```javascript
 const rintaras = {
@@ -21,8 +23,8 @@ const rintaras = {
 };
 ```
 
+<div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&pause=3000&color=F7A41D&center=true&vCenter=true&width=400&lines=⚡+Currently+learning+WebAssembly;🌐+Exploring+Cloud+Architecture;🔮+Interested+in+Web3+%26+IoT" alt="Learning Status" />
-
 </div>
 
 ## Tech Stack & Skills
