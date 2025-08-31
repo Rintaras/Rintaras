@@ -33,7 +33,7 @@ const rintaras = {
 <tr>
 <td width="50%">
 
-<div style="background: #0D1117; border: 2px solid #30363D; border-radius: 12px; padding: 24px; margin: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<div style="background: #0D1117; border: 2px solid #30363D; border-radius: 12px; padding: 20px; margin: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 250px;">
 
 <div style="display: flex; align-items: center; margin-bottom: 16px;">
 <div style="background: linear-gradient(45deg, #667eea, #764ba2); width: 40px; height: 40px; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 16px; font-family: 'Lucida Console', monospace; font-size: 20px; color: white; font-weight: bold;">
@@ -60,7 +60,7 @@ const rintaras = {
 </td>
 <td width="50%">
 
-<div style="background: #0D1117; border: 2px solid #30363D; border-radius: 12px; padding: 24px; margin: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<div style="background: #0D1117; border: 2px solid #30363D; border-radius: 12px; padding: 20px; margin: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 250px;">
 
 <div style="display: flex; align-items: center; margin-bottom: 16px;">
 <div style="background: linear-gradient(45deg, #f093fb, #f5576c); width: 40px; height: 40px; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 16px; font-family: 'Lucida Console', monospace; font-size: 20px; color: white; font-weight: bold;">
@@ -89,7 +89,7 @@ const rintaras = {
 <tr>
 <td width="50%">
 
-<div style="background: #0D1117; border: 2px solid #30363D; border-radius: 12px; padding: 24px; margin: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<div style="background: #0D1117; border: 2px solid #30363D; border-radius: 12px; padding: 20px; margin: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 250px;">
 
 <div style="display: flex; align-items: center; margin-bottom: 16px;">
 <div style="background: linear-gradient(45deg, #4facfe, #00f2fe); width: 40px; height: 40px; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 16px; font-family: 'Lucida Console', monospace; font-size: 20px; color: white; font-weight: bold;">
@@ -116,7 +116,7 @@ const rintaras = {
 </td>
 <td width="50%">
 
-<div style="background: #0D1117; border: 2px solid #30363D; border-radius: 12px; padding: 24px; margin: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+<div style="background: #0D1117; border: 2px solid #30363D; border-radius: 12px; padding: 20px; margin: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 250px;">
 
 <div style="display: flex; align-items: center; margin-bottom: 16px;">
 <div style="background: linear-gradient(45deg, #43e97b, #38f9d7); width: 40px; height: 40px; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 16px; font-family: 'Lucida Console', monospace; font-size: 20px; color: white; font-weight: bold;">
@@ -124,7 +124,7 @@ const rintaras = {
 </div>
 <div>
 <h3 style="margin: 0; color: #F7A41D; font-size: 18px;">Computer Vision</h3>
-<p style="margin: 0; color: #8B949E; font-size: 14px;">Object Detection</p>
+<p style="margin: 0; color: 8B949E; font-size: 14px;">Object Detection</p>
 </div>
 </div>
 
@@ -145,7 +145,7 @@ const rintaras = {
 <tr>
 <td colspan="2" align="center">
 
-<div style="background: #0D1117; border: 2px solid #30363D; border-radius: 12px; padding: 24px; margin: 16px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); max-width: 600px;">
+<div style="background: #0D1117; border: 2px solid #30363D; border-radius: 12px; padding: 20px; margin: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 250px;">
 
 <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 16px;">
 <div style="background: linear-gradient(45deg, #fa709a, #fee140); width: 40px; height: 40px; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 16px; font-family: 'Lucida Console', monospace; font-size: 20px; color: white; font-weight: bold;">
