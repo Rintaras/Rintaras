@@ -8,11 +8,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Software+Developer;AI+%26+ML+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=18&pause=2000&color=6ADC42&center=true&vCenter=true&width=500&lines=🚀+Ready+to+code+%26+create!;💡+Passionate+about+innovation;🌱+Growing+every+day" alt="Status" />
+
 ---
 
 </div>
 
 ## About Me
+
+<div align="center">
 
 ```javascript
 const rintaras = {
@@ -25,11 +29,17 @@ const rintaras = {
 };
 ```
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&pause=3000&color=F7A41D&center=true&vCenter=true&width=400&lines=⚡+Currently+learning+WebAssembly;🌐+Exploring+Cloud+Architecture;🔮+Interested+in+Web3+%26+IoT" alt="Learning Status" />
+
+</div>
+
 
 
 ## Tech Stack & Skills
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=2500&color=58A6FF&center=true&vCenter=true&width=500&lines=🛠️+My+Technology+Stack;💻+Frontend+%26+Backend;☁️+Cloud+%26+DevOps;🤖+AI+%26+Machine+Learning" alt="Tech Stack Intro" />
 
 ### Frontend Development
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,html,css,tailwind,bootstrap" height="50" />
@@ -56,6 +66,7 @@ const rintaras = {
 ### Mobile Development
 <img src="https://skillicons.dev/icons?i=swift,react,flutter" height="50" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&pause=3000&color=6ADC42&center=true&vCenter=true&width=450&lines=🔧+Always+learning+new+technologies;🚀+Ready+for+new+challenges;💡+Open+to+collaboration!" alt="Tech Enthusiasm" />
 
 </div>
 
@@ -64,6 +75,8 @@ const rintaras = {
 ## GitHub Analytics
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=2000&color=F7A41D&center=true&vCenter=true&width=500&lines=📊+My+GitHub+Activity;🏆+Achievements+%26+Stats;📈+Contribution+Analytics" alt="Analytics Intro" />
 
 <table>
   <tr>
@@ -92,6 +105,8 @@ const rintaras = {
 ## Let's Connect!
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=2000&color=F7A41D&center=true&vCenter=true&width=500&lines=🤝+Let%27s+Connect!;💬+Open+to+collaborations;🚀+Ready+for+new+projects" alt="Connection Intro" />
 
 ### Feel free to reach out for collaborations or just a friendly chat!
 
