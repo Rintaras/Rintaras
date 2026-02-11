@@ -68,19 +68,9 @@ const rintaras = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=2000&color=F7A41D&center=true&vCenter=true&width=500&lines=📊+My+GitHub+Activity;🏆+Achievements+%26+Stats;📈+Contribution+Analytics" alt="Analytics Intro" />
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Rintaras&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rintaras&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" /></td>
-  </tr>
-</table>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rintaras&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
-### GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Rintaras&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+
 
 ### Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rintaras&theme=tokyo-night&bg_color=0D1117&color=F7A41D&line=F7A41D&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
