@@ -38,12 +38,12 @@ const rintaras = {
 <img src="https://skillicons.dev/icons?i=figma" height="50" />
 
 ### Backend Development  
-<img src="https://skillicons.dev/icons?i=nodejs,python,php,go,java,c,cpp" height="50" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,php,go,java,c" height="50" />
 <img src="https://skillicons.dev/icons?i=fastapi,django,laravel" height="50" />
 
 ### Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform" height="50" />
-<img src="https://skillicons.dev/icons?i=githubactions,vercel,netlify" height="50" />
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform" height="50" />
+<img src="https://skillicons.dev/icons?i=githubactions,vercel" height="50" />
 
 ### Databases & Storage
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase,supabase" height="50" />
@@ -67,6 +67,23 @@ const rintaras = {
 ## GitHub Analytics
 
 <div align="center">
+
+### Overall Status & Most Used Languages
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Rintaras&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&hide_title=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rintaras&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
+
+*GitHub Stats: Issues, Pull Requests, Stars, Commits など | Most Used Languages: リポジトリで使用している言語の割合*
+
+### GitHub Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rintaras&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
