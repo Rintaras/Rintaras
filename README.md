@@ -68,21 +68,6 @@ const rintaras = {
 
 <div align="center">
 
-### Overall Status & Most Used Languages
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Rintaras&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true&hide_title=false" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rintaras&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=10" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
-
-*GitHub Stats: Issues, Pull Requests, Stars, Commits など | Most Used Languages: リポジトリで使用している言語の割合*
-
 ### GitHub Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rintaras&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
