@@ -68,17 +68,34 @@ const rintaras = {
 
 <div align="center">
 
-### GitHub Streak
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&width=80%&animation=twinkling" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rintaras&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+### 📈 Stats & Languages
 
+<table>
+  <tr>
+    <td width="50%">
+      <img src="profile-summary-card-output/rose_pine/3-stats.svg" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="profile-summary-card-output/rose_pine/1-repos-per-language.svg" alt="Most Used Languages" width="100%" />
+    </td>
+  </tr>
+</table>
 
+### 🔥 Contribution Streak
 
-### Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rintaras&theme=tokyo-night&bg_color=0D1117&color=F7A41D&line=F7A41D&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rintaras&theme=tokyonight&hide_border=true&background=0D1117&stroke=F7A41D&ring=F7A41D&fire=F7A41D&currStreakLabel=F7A41D" alt="GitHub Streak" />
 
-### Dynamic GitHub Grass
+### 📅 Activity Graph
+
+<img src="profile-summary-card-output/rose_pine/0-profile-details.svg" alt="Profile Details" width="100%" />
+
+### 🐍 Dynamic Grass
+
 <img src="https://raw.githubusercontent.com/Rintaras/Rintaras/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header&width=80%&animation=twinkling" />
 
 </div>
 
